@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashraful Chowdhury
 - 👀 I’m interested in Data Analysis, Data Science.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on learning about Data Analysis.
+- 🌱 I’m currently working with AI
+- 💞️ I’m looking to collaborate on working with AI, Data Analysis.
 - 📫 My Linkedin ID: https://www.linkedin.com/in/ashraful046/
 
 <!---
